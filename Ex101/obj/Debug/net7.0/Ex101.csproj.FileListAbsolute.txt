@@ -1,0 +1,14 @@
+D:\Documents\Projects1\examples\Ex001\Ex101\bin\Debug\net7.0\Ex101.exe
+D:\Documents\Projects1\examples\Ex001\Ex101\bin\Debug\net7.0\Ex101.deps.json
+D:\Documents\Projects1\examples\Ex001\Ex101\bin\Debug\net7.0\Ex101.runtimeconfig.json
+D:\Documents\Projects1\examples\Ex001\Ex101\bin\Debug\net7.0\Ex101.dll
+D:\Documents\Projects1\examples\Ex001\Ex101\bin\Debug\net7.0\Ex101.pdb
+D:\Documents\Projects1\examples\Ex001\Ex101\obj\Debug\net7.0\Ex101.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects1\examples\Ex001\Ex101\obj\Debug\net7.0\Ex101.AssemblyInfoInputs.cache
+D:\Documents\Projects1\examples\Ex001\Ex101\obj\Debug\net7.0\Ex101.AssemblyInfo.cs
+D:\Documents\Projects1\examples\Ex001\Ex101\obj\Debug\net7.0\Ex101.csproj.CoreCompileInputs.cache
+D:\Documents\Projects1\examples\Ex001\Ex101\obj\Debug\net7.0\Ex101.dll
+D:\Documents\Projects1\examples\Ex001\Ex101\obj\Debug\net7.0\refint\Ex101.dll
+D:\Documents\Projects1\examples\Ex001\Ex101\obj\Debug\net7.0\Ex101.pdb
+D:\Documents\Projects1\examples\Ex001\Ex101\obj\Debug\net7.0\Ex101.genruntimeconfig.cache
+D:\Documents\Projects1\examples\Ex001\Ex101\obj\Debug\net7.0\ref\Ex101.dll
